@@ -1,7 +1,7 @@
 ![capa](https://raw.githubusercontent.com/BellaSchiefer01/Hello-word/refs/heads/main/images/Banner.png?token=GHSAT0AAAAAADEYSJTJ7A3IOVZ4Y5EYIZG62C3D32Q)
 
 <br></br>
-# Olá, meu nome é Isabelle Schiefer, sejá bem vindo ao meu perfil! 🌷
+# Olá, meu nome é Isabelle Schiefer, seja bem vindo ao meu perfil! 🌷
 <br></br>
 
 
